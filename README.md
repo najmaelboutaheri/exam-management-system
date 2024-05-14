@@ -44,6 +44,6 @@ We welcome contributions from the community! Please follow these steps to contri
 
 ## Contact
 
-For any inquiries or issues, please open an issue on GitHub or contact the maintainers.
+For any inquiries or issues, please open an issue on GitHub.
 
 
